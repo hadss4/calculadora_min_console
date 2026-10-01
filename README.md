@@ -27,7 +27,7 @@ Obs.: É necessário que você tenha um editor de código, como o VS Code, insta
 ```
 
 ## Como utilizar?
-Ao iniciar o programa com o comando Ctrl+Alt+N ou clicando o botão de "Run" ou "Run and Debug", será impresso na tela:
+Ao iniciar o programa clicando o botão de "Run" ou "Run and Debug", será impresso na tela:
 ```
 --------------------------------------
         Calculadora de Minutos
