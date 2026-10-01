@@ -27,7 +27,7 @@ Obs.: É necessário que você tenha um editor de código, como o VS Code, insta
 ```
 
 ## Como utilizar?
-Ao iniciar o programa com o comando Ctrl+Alt+N, será impresso na tela
+Ao iniciar o programa com o comando Ctrl+Alt+N ou clicando o botão de "Run" ou "Run and Debug", será impresso na tela:
 ```
 --------------------------------------
         Calculadora de Minutos
@@ -44,7 +44,7 @@ Em seguida, será requisitado o valor dos minutos.
 * Minutos: 
 ```
 
-ATENÇÃO: o valor dos minutos NÃO pode chegar a 60, pois será gerado um erro!
+ATENÇÃO: o valor dos minutos NÃO pode ultrapassar 60, pois será gerado um erro.
 ```
 ERRO: Valor de minutos incorreto!
 ```
@@ -53,9 +53,9 @@ Por fim, o programa digitará na tela o valor total de tempo em minutos.
 ```
 Valor Total (em minutos): 
 ```
-### Exemplo
+### Imagem de Exemplo
 A seguir, trazemos um exemplo do funcionamento da calculadora.
-![imagem de exemplo](/img/img1.png)
+![imagem de exemplo](img/img1.png)
 
 ## Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](/LICENSE) para mais detalhes.  
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
